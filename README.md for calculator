@@ -1,0 +1,43 @@
+# CODSOFT
+**README.md**
+
+# Simple Calculator
+
+This is a simple calculator application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Usage
+
+1. Clone the repository to your local machine:
+
+   ```
+   git clone https://github.com/yourusername/simple-calculator.git
+   ```
+
+2. Open `index.html` in your preferred web browser.
+
+3. Enter the numbers you want to calculate and click on the corresponding operation button (+, -, *, /).
+
+4. The result will be displayed in the output field.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+The design and implementation of this calculator were inspired by various online resources and tutorials. Special thanks to the contributors who helped improve this project.
+
+---
+
+Feel free to customize this README with additional information or instructions specific to your project!
