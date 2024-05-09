@@ -1,0 +1,54 @@
+**README.md**
+
+# Number Guessing Game in C++
+
+This is a simple number guessing game implemented in C++. The program generates a random number, and the player tries to guess it within a certain number of attempts.
+
+## Features
+
+- Generates a random number between a specified range.
+- Allows the player to guess the number.
+- Provides feedback on whether the guess is too high, too low, or correct.
+- Limits the number of attempts.
+
+## Usage
+
+1. Clone the repository to your local machine:
+
+   ```
+   git clone https://github.com/Fabiyanoor/number-guessing-game.git
+   ```
+
+2. Compile the source code:
+
+   ```
+   g++ guessing_game.cpp -o guessing_game
+   ```
+
+3. Run the executable:
+
+   ```
+   ./guessing_game
+   ```
+
+4. Follow the instructions displayed on the screen to guess the number.
+
+## Customization
+
+You can customize the range of numbers to guess from and the number of attempts allowed by modifying the variables `MIN_NUMBER`, `MAX_NUMBER`, and `MAX_ATTEMPTS` in the source code (`guessing_game.cpp`).
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+The implementation of this number guessing game was inspired by various online resources and tutorials. 
+
+---
+
+Feel free to customize this README with additional information or instructions specific to your project!
