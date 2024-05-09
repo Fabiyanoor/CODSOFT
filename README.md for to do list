@@ -1,0 +1,49 @@
+**README.md**
+
+# To-Do List App
+
+This is a simple to-do list application built using HTML, CSS, and JavaScript. It helps users organize their tasks and manage their daily activities efficiently.
+
+## Features
+
+- Add tasks with a title and optional description
+- Mark tasks as complete
+- Delete tasks
+- Filter tasks by status (all, active, completed)
+- Save tasks locally in the browser
+
+## Usage
+
+1. Clone the repository to your local machine:
+
+   ```
+   git clone https://github.com/Fabiyanoor/todo-list.git
+   ```
+
+2. Open `index.html` in your preferred web browser.
+
+3. To add a new task, type the task title in the input field and press Enter. You can also add an optional description for the task.
+
+4. To mark a task as complete, click on the checkbox next to the task.
+
+5. To delete a task, click on the delete icon (trash can) next to the task.
+
+6. Use the filter buttons at the bottom to view all tasks, only active tasks, or only completed tasks.
+
+7. Your tasks will be saved locally in the browser, so you can revisit the page later and find your tasks intact.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+The design and implementation of this to-do list application were inspired by various online resources and tutorials. Special thanks to the contributors who helped improve this project.
+
+---
+
+Feel free to customize this README with additional information or instructions specific to your project!
